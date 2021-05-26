@@ -1,0 +1,14 @@
+.addListForm {
+    display: block;
+}
+.formGroupHasButton__input {
+    height: 30px;
+    width: calc(100% - 30px);
+}
+.formGroupHasButton__button {
+    height: 30px;
+    width: 30px;
+}
+.addListForm input:focus{
+    outline: none;
+}

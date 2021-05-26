@@ -1,0 +1,13 @@
+.todoItem {
+    margin-top: 4px;
+    background-color: rgba(18, 95, 80, 0.8);
+    padding: 4px;
+    text-align: left;
+    color: seashell;
+}
+.todoItem__deleteButton {
+    float: right;
+    width: 30px;
+    height: 100%;
+    color: red;
+}

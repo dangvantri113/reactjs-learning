@@ -1,4 +1,10 @@
 .App {
+  margin: 10px auto;
+  box-shadow: 4px 4px 2px 1px rgba(2, 2, 2, 0.7);
+  border: black 1px solid;
+  width: 300px;
+  background-color: cadetblue;
+  padding: 10px;
   text-align: center;
 }
 
